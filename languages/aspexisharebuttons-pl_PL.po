@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aspexi Share Buttons\n"
+"POT-Creation-Date: 2017-05-23 09:34+0200\n"
+"PO-Revision-Date: 2017-05-23 09:35+0200\n"
+"Last-Translator: Aspexi <info@aspexi.com>\n"
+"Language-Team: Aspexi <support@aspexi.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: aspexi-share-buttons.php\n"
+
+#: aspexi-share-buttons.php:29
+msgid ""
+"Simple social share (Facebook and Twitter) buttons for mobile, stick to the "
+"bottom of the page."
+msgstr ""
+"Proste i estetyczne przyciski udostępniania treści (Facebook oraz Twitter) "
+"dla ekranów mobilnych, przyklejone do dołu strony."
+
+#: aspexi-share-buttons.php:97 aspexi-share-buttons.php:178
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: aspexi-share-buttons.php:140
+msgid "Aspexi Share Buttons"
+msgstr "Aspexi Share Buttons"
+
+#: aspexi-share-buttons.php:146
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie masz wystarczających uprawnień do przeglądania tej strony."
+
+#: aspexi-share-buttons.php:162
+msgid "Settings saved."
+msgstr "Zapisano."
+
+#: aspexi-share-buttons.php:168
+msgid "Aspexi Share Buttons Settings"
+msgstr "Ustawienia Aspexi Share Buttons"
+
+#: aspexi-share-buttons.php:183
+msgid "Facebook Share Button"
+msgstr "Przycisk Facebook"
+
+#: aspexi-share-buttons.php:187
+#, fuzzy
+#| msgid "Facebook Share Button"
+msgid "Facebook share button icon"
+msgstr "Przycisk Facebook"
+
+#: aspexi-share-buttons.php:191
+#, fuzzy
+#| msgid "Facebook Share Button"
+msgid "Facebook share button copy"
+msgstr "Przycisk Facebook"
+
+#: aspexi-share-buttons.php:195
+#, fuzzy
+#| msgid "Facebook Share Button"
+msgid "Facebook share button background"
+msgstr "Przycisk Facebook"
+
+#: aspexi-share-buttons.php:198 aspexi-share-buttons.php:226
+msgid "Gradient"
+msgstr ""
+
+#: aspexi-share-buttons.php:199 aspexi-share-buttons.php:227
+msgid "Solid"
+msgstr ""
+
+#: aspexi-share-buttons.php:211
+msgid "Twitter Share Button"
+msgstr "Przycisk Twitter"
+
+#: aspexi-share-buttons.php:215
+#, fuzzy
+#| msgid "Twitter Share Button"
+msgid "Twitter share button icon"
+msgstr "Przycisk Twitter"
+
+#: aspexi-share-buttons.php:219
+#, fuzzy
+#| msgid "Twitter Share Button"
+msgid "Twitter share button copy"
+msgstr "Przycisk Twitter"
+
+#: aspexi-share-buttons.php:223
+#, fuzzy
+#| msgid "Twitter Share Button"
+msgid "twitter share button background"
+msgstr "Przycisk Twitter"
+
+#: aspexi-share-buttons.php:239
+msgid "Show on desktop and mobile (default mobile only)"
+msgstr "Pokaż na desktopie i na mobile (domyślnie tylko mobile)"
+
+#: aspexi-share-buttons.php:245
+msgid "Buttons height"
+msgstr "Wysokość przycisków"
+
+#: aspexi-share-buttons.php:265
+msgid "Save all settings"
+msgstr "Zapisz wszystkie zmiany"
+
+#: aspexi-share-buttons.php:269
+msgid "Made by"
+msgstr "Made by"
+
+#: aspexi-share-buttons.php:290
+msgid "Get PRO version"
+msgstr "Wersja PRO"
+
+#: aspexi-share-buttons.php:328
+msgid "Share on Facebook"
+msgstr "Udostępnij przez Facebook"
+
+#: aspexi-share-buttons.php:340
+msgid "Share on Twitter"
+msgstr "Udostępnij przez Twitter"
